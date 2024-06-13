@@ -2,7 +2,7 @@
 
 ## Description
 
-The Crypto Purchase Feasibility Checker is a simple script written in JavaScript that calculates whether a user can afford to buy a certain amount of cryptocurrency based on the total added coins, mining rate, and total cost.
+The Crypto Purchase Feasibility Checker is a simple script written in JavaScript that calculates whether a user can afford to buy a certain amount of Hamerser Miner based on the total added coins, mining rate, and total cost.
 
 ## Installation
 
@@ -15,12 +15,12 @@ The Crypto Purchase Feasibility Checker is a simple script written in JavaScript
 
 1. Modify the values of `totalAddedCoin`, `miningRate`, and `totalCost` in the script to match your desired cryptocurrency parameters.
 2. Run the script to determine if you can afford to buy the specified amount.
-3. The script will output whether you can buy the cryptocurrency and the percentage by which you can afford it.
+3. The script will output whether you can buy the Miner and the percentage by which you can afford it.
 
 ## Features
 
-- Calculate affordability of buying cryptocurrency based on input parameters.
-- Determine if the user can afford to purchase the specified amount of cryptocurrency.
+- Calculate affordability of buying Hamester Miner based on input parameters.
+- Determine if the user can afford to purchase the specified amount of Hamester coin.
 - Display the affordability status and the percentage by which the purchase can be made.
 
 ## Contributing
